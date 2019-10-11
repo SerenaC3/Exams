@@ -15,7 +15,7 @@ namespace ExamModule1
             for (var index = 0; index < rubrica.Count; index++)
             {
                 Console.WriteLine($" => {rubrica[index].Code}, {rubrica[index].Name}");
-                //Console.WriteLine(" => " + rubrica[index].Code + ", " + rubrica[index].Name);
+               
             }
         }
 
